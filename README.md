@@ -27,7 +27,7 @@ A interface foi desenvolvida com foco em design moderno, fluidez e navegação i
 
 A página inicial exibe os jogos mais novos e populares da plataforma.
 
-<img src="public/capa-projeto.png">
+![Página de Lançamentos](/capa-projeto.png)
 
 ---
 
